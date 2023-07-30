@@ -1,0 +1,16 @@
+{
+  "name": "que10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "que10.js",
+  "scripts": {
+    "test": "test.js",
+    "server": "que10.js",
+    "myscript": "que10.js",
+    "script1": "que10.js",
+    "script2": "que10.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
